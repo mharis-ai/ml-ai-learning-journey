@@ -1,0 +1,1 @@
+print("Hello world! This is my first program towards my ML/AI journey. Stay tuned: github.com/mharis-ai")
