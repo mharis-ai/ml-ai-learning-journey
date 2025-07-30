@@ -39,10 +39,10 @@ Each chapter is manually implemented and version-controlled using Git. Exercises
 |   3     | Conditionals            | ✅ Completed   |
 |   4     | Functions               | ✅ Completed   |
 |   5     | Iterations              | ✅ Completed   |
-|   6     | Strings                 | 🚧 In Progress |
-|   7     | Files                   | 🔒 Locked      |
-|   8     | Lists                   | 🔒 Locked      |
-|   9     | Dictionaries            | 🔒 Locked      |
+|   6     | Strings                 | ✅ Completed   | 
+|   7     | Files                   | ✅ Completed   |
+|   8     | Lists                   | ✅ Completed   |
+|   9     | Dictionaries            | 🚧 In Progress |
 |  10     | Tuples                  | 🔒 Locked      |
 |  11     | Regex                   | 🔒 Locked      |
 |  12     | Networked Programs      | 🔒 Locked      |
@@ -71,7 +71,7 @@ phase1-python-git-foundations/
 ├── 05-chapter5-iterations-py4e/ 
 │   ├── ex_5.2.py
 │   └── README.md
-├── 06-chapter6-strings-py4e/ ← (to be continued)    
+├── 06-chapter6-strings-py4e/   
 │   ├── ex_6.5.py
 │   └── README.md
 ├── 07-chapter7-files-py4e/
@@ -81,7 +81,7 @@ phase1-python-git-foundations/
 │   ├── ex_8.4.py
 │   ├── ex_8.5.py
 │   └── README.md
-├── 09-chapter9-dictionaries-py4e/
+├── 09-chapter9-dictionaries-py4e/ ← (to be continued) 
 │   ├── ex_9.4.py
 │   └── README.md
 ├── 10-chapter10-tuples-py4e/
