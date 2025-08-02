@@ -1,4 +1,3 @@
-
 # 📘 Phase 1 – Python Git Foundations
 
 This phase lays the groundwork for my ML and AI journey by focusing on two essential skills: Python programming and Git-based version control. It includes structured coding practice, clean documentation, and consistent versioning across two core courses.

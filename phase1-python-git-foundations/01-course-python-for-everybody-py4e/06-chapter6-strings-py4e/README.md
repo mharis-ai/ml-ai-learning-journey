@@ -22,6 +22,7 @@ print(c)
 
 **What it does**  
 Finds the position of the colon, slices the part after it, removes any leading spaces, converts the result to a float, and prints it.
+
 ---
 
 ## Reflections
