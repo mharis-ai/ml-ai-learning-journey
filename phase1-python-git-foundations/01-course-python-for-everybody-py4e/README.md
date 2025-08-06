@@ -24,7 +24,7 @@ Each chapter is manually implemented and version-controlled using Git. Exercises
 | 8       | Lists                     | `08-chapter8-lists-py4e`                     |
 | 9       | Dictionaries              | `09-chapter9-dictionaries-py4e`              |
 | 10      | Tuples                    | `10-chapter10-tuples-py4e`                   |
-| 11      | Regular Expressions       | `11-chapter11-regex-py4e`                    |
+| 11      | Regex                     | `11-chapter11-regex-py4e`                    |
 | 12      | Networked Programs        | `12-chapter12-networked-programs-py4e`       |
 | 13      | Python and Web Services   | `13-chapter13-python-and-web-services-py4e`  |
 
