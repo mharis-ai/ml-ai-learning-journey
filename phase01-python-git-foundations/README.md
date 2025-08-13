@@ -1,4 +1,4 @@
-# 📘 Phase 1 – Python Git Foundations
+# 📘 Phase 01 – Python and Git Foundations
 
 This phase lays the groundwork for my ML and AI journey by focusing on two essential skills: Python programming and Git-based version control. It includes structured coding practice, clean documentation, and consistent versioning across two core courses.
 
@@ -6,13 +6,14 @@ This phase lays the groundwork for my ML and AI journey by focusing on two essen
 
 ## 🧩 Courses Included
 
-| #   | Course Title                        | Folder Name                                 |
-|-----|-------------------------------------|---------------------------------------------|
-| 1   | Python for Everybody (Dr. Chuck)    | `01-course-python-for-everybody-py4e`       |
-| 2   | Introduction to Git and GitHub      | `02-course-google-git-and-github`           |
+| #    | Course Title                               | Folder Name                                    |
+|------|--------------------------------------------|------------------------------------------------|
+| 01   | Python for Everybody – (Py4e)              | `course01-python-for-everybody-py4e`           |
+| 02   | Object Oriented Programming in Python      | `course02-object-oriented-programming-python`  |
+| 03   | Git and GitHub                             | `course03-git-and-github`                      |
 
 Each course folder contains:
-- Structured chapters or modules  
+- Structured content in the form of chapters, modules, or topics, depending on the course  
 - Manually written code exercises  
 - Dedicated `README.md` files with explanations and reflections  
 - Professional Git usage with scheduled commits
@@ -22,10 +23,11 @@ Each course folder contains:
 ## 📁 Phase Folder Structure
 
 ```text
-phase1-python-git-foundations/
-├── 01-course-python-for-everybody-py4e/    ← Python chapters, exercises & documentation
-├── 02-course-google-git-and-github/        ← Git and GitHub learning practice
-└── README.md                               ← Overview of Phase 1 
+phase01-python-and-git-foundations/
+├── course01-python-for-everybody-py4e/               ← Python basics with hands-on exercises
+├── course02-object-oriented-programming-python/      ← Object-Oriented Programming fundamentals in Python
+├── course03-git-and-github/                          ← Git and GitHub for version control
+└── README.md                                         ← Phase overview
 ```
 ---
 
@@ -34,4 +36,4 @@ phase1-python-git-foundations/
 | 🔍 Section        | 💬 Details |
 |------------------|------------|
 | **Integrity**     | All code is manually written by me without using auto-solvers or AI-generated answers. I only use ChatGPT for conceptual guidance, documentation refinement, and structuring help — never for copying solutions. I strive to build logic independently and seek help only when genuinely stuck. |
-| **Next Phase**    | After completing Phase 1, I will move to **Phase 2 – Math for Machine Learning**, focusing on the core mathematical foundations behind ML, including linear algebra, calculus, and probability. |
+| **Next Phase**    | After completing Phase 1, I will move to **Phase 02 – Data Analysis, Algorithms and Engineering**, focusing on essential data analysis skills, core algorithms, and practical engineering techniques for ML workflows. |

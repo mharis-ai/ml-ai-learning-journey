@@ -1,32 +1,33 @@
-# 📘 Python for Everybody – Dr. Charles Severance (PY4E)
+# 📘 Python for Everybody – (PY4E)
 
-This folder contains my complete hands-on solutions to the official **Python for Everybody** course by Dr. Charles Severance, completed as part of **Phase 1 – Python Git Foundations** in my ML/AI Engineering roadmap.
+This folder contains my complete hands-on solutions to the official **Python for Everybody** course by Dr. Charles Severance, completed as part of **Phase 01 – Python and Git Foundations** in my ML/AI Engineering roadmap.
 
 Each chapter is manually implemented and version-controlled using Git. Exercises are written from scratch, named consistently, and organized into cleanly structured folders. All updates are pushed twice a week to maintain a disciplined professional workflow.
 
-> 🔗 Website: [py4e.com](https://www.py4e.com)  
-> 📘 Book: [Python for Everybody (Online HTML)](https://www.py4e.com/html3)  
-> 🎓 Course Focus: Programming fundamentals, logic, core Python syntax, and developer discipline
+> 🔗 **Course Reference:** [Python for Everybody – (PY4E)](https://www.py4e.com)  
+> 📘 **Course Book:** [Python for Everybody (Online HTML)](https://www.py4e.com/html3)  
+> 📒 **Course Notes:** My personal notes for this course are compiled in `course01-notes.pdf`.
+> 🎓 **Course Focus:** Programming fundamentals, logic, core Python syntax, and developer discipline
 
 ---
 
 ## 📚 Chapters Overview
 
-| Chapter | Title                     | Folder Name                                  |
-|---------|---------------------------|----------------------------------------------|
-| 1       | Introduction              | `01-chapter1-introduction-py4e`              |
-| 2       | Variables                 | `02-chapter2-variables-py4e`                 |
-| 3       | Conditionals              | `03-chapter3-conditionals-py4e`              |
-| 4       | Functions                 | `04-chapter4-functions-py4e`                 |
-| 5       | Iterations                | `05-chapter5-iterations-py4e`                |
-| 6       | Strings                   | `06-chapter6-strings-py4e`                   |
-| 7       | Files                     | `07-chapter7-files-py4e`                     |
-| 8       | Lists                     | `08-chapter8-lists-py4e`                     |
-| 9       | Dictionaries              | `09-chapter9-dictionaries-py4e`              |
-| 10      | Tuples                    | `10-chapter10-tuples-py4e`                   |
-| 11      | Regex                     | `11-chapter11-regex-py4e`                    |
-| 12      | Networked Programs        | `12-chapter12-networked-programs-py4e`       |
-| 13      | Python and Web Services   | `13-chapter13-python-and-web-services-py4e`  |
+| Chapter | Title                     | Folder Name                                |
+|---------|---------------------------|--------------------------------------------|
+| 1       | Introduction              | `chapter01-introduction-py4e`              |
+| 2       | Variables                 | `chapter02-variables-py4e`                 |
+| 3       | Conditionals              | `chapter03-conditionals-py4e`              |
+| 4       | Functions                 | `chapter04-functions-py4e`                 |
+| 5       | Iterations                | `chapter05-iterations-py4e`                |
+| 6       | Strings                   | `chapter06-strings-py4e`                   |
+| 7       | Files                     | `chapter07-files-py4e`                     |
+| 8       | Lists                     | `chapter08-lists-py4e`                     |
+| 9       | Dictionaries              | `chapter09-dictionaries-py4e`              |
+| 10      | Tuples                    | `chapter10-tuples-py4e`                    |
+| 11      | Regex                     | `chapter11-regex-py4e`                     |
+| 12      | Networked Programs        | `chapter12-networked-programs-py4e`        |
+| 13      | Python and Web Services   | `chapter13-python-and-web-services-py4e`   |
 
 ---
 
@@ -53,60 +54,60 @@ Each chapter is manually implemented and version-controlled using Git. Exercises
 ## 🧱 Course Folder Structure
 
 ```
-phase1-python-git-foundations/
-├── 01-chapter1-introduction-py4e/
+course01-python-for-everybody-py4e/
+├── chapter01-introduction/
 │   ├── ex_1.1.py
 │   └── README.md
-├── 02-chapter2-variables-py4e/
+├── chapter02-variables/
 │   ├── ex_2.2.py
 │   ├── ex_2.3.py
 │   └── README.md
-├── 03-chapter3-conditionals-py4e/
+├── chapter03-conditionals/
 │   ├── ex_3.1.py
 │   ├── ex_3.3.py
 │   └── README.md
-├── 04-chapter4-functions-py4e/
+├── chapter04-functions/
 │   ├── ex_4.6.py
 │   └── README.md
-├── 05-chapter5-iterations-py4e/ 
+├── chapter05-iterations/ 
 │   ├── ex_5.2.py
 │   └── README.md
-├── 06-chapter6-strings-py4e/   
+├── chapter06-strings/   
 │   ├── ex_6.5.py
 │   └── README.md
-├── 07-chapter7-files-py4e/
+├── chapter07-files/
 │   ├── ex_7.2.py
 │   └── README.md
-├── 08-chapter8-lists-py4e/
+├── chapter08-lists/
 │   ├── ex_8.4.py
 │   ├── ex_8.5.py
 │   └── README.md
-├── 09-chapter9-dictionaries-py4e/ ← (to be continued) 
+├── chapter09-dictionaries/
 │   ├── ex_9.4.py
 │   └── README.md
-├── 10-chapter10-tuples-py4e/
+├── chapter10-tuples/
 │   ├── ex_10.2.py
 │   └── README.md
-├── 11-chapter11-regex-py4e/
+├── chapter11-regex/
 │   ├── regular-expressions.py
 │   └── README.md
-├── 12-chapter12-networked-programs-py4e/
+├── chapter12-networked-programs/
 │   ├── request-responce-cycle.py
 │   ├── scraping-html-data-with-beautifulsoup.py
 │   ├── following-links-with-beautifulsoup.py
 │   └── README.md
-├── 13-chapter13-python-and-web-services-py4e/
+├── chapter13-python-and-web-services/
 │   ├── extracting-data-from-xml.py
 │   ├── extract-data-from-json.py
 │   ├── using-the-geojson-api.py
 │   └── README.md
-└── README.md  ← (course-level overview)
+└── README.md    ← Course overview
 
 ```
 
-Each chapter folder includes:
-- Manually written Python scripts
-- Clear, consistent file naming
+**Each chapter folder contains:**
+- Manually written `.py` script files  
+- Clear and consistent file naming conventions
 - A chapter-specific `README.md` for context
 
 ---
@@ -137,7 +138,7 @@ Each chapter folder includes:
 
 ## 🛤️ Roadmap Integration
 
-This course is part of:
+This course is part of **Phase01 – Python and Git Foundations**:
 
-> 🔸 **Phase 1 – Python & Git Foundations**  
-in my structured 8-phase ML/AI Engineering roadmap. The goal is to develop solid programming fundamentals alongside a real-world Git-based workflow. Upon completion of this course and Git essentials, I’ll transition into **Math for Machine Learning (Phase 2)**.
+> 🔸 **Course 01 – Python for Everybody – (PY4E)**  
+As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on developing strong programming fundamentals in Python. Upon completion, I will proceed to an Object-Oriented Programming tutorial to continue Phase 01.
