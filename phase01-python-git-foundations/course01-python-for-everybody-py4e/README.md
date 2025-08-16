@@ -6,7 +6,7 @@ Each chapter is manually implemented and version-controlled using Git. Exercises
 
 > 🔗 **Course Reference:** [Python for Everybody – (PY4E)](https://www.py4e.com)  
 > 📘 **Course Book:** [Python for Everybody (Online HTML)](https://www.py4e.com/html3)  
-> 📒 **Course Notes:** My personal notes for this course are compiled in `course01-notes.pdf`.
+> 📒 **Course Notes:** My personal notes for this course are compiled in `course01-notes.pdf`.  
 > 🎓 **Course Focus:** Programming fundamentals, logic, core Python syntax, and developer discipline
 
 ---

@@ -1,12 +1,12 @@
-# 📘 Object Oriented Programming in Python – Chai aur Code (Youtube)
+# 📘 Object Oriented Programming in Python – Chai aur Code (YouTube)
 
 Hands-on implementation of **OOP in Python** by Chai aur Code as part of **Phase 01 – Python and Git Foundations**. Covers classes, objects, constructors, methods, properties, encapsulation, polymorphism, inheritance, and multiple inheritance.
 
 Each topic is manually implemented and version-controlled using Git. Exercises are written from scratch, named consistently, and organized into cleanly structured folders. All updates are pushed twice a week to maintain a disciplined professional workflow.
 
-> 🔗 **Course Reference:** [Object Oriented Programming in Python – Chai aur Code (Youtube)](https://www.youtube.com/watch?v=6soT3DMBJGQ&t=3s) 
-> 📒 **Course Notes:** My personal notes for this course are compiled in `course02-notes.pdf`. 
-> 🎓 **Course Focus:** Practical Python OOP fundamentals.
+> 🔗 **Course Reference:** [Object Oriented Programming in Python – Chai aur Code (YouTube)](https://www.youtube.com/watch?v=6soT3DMBJGQ&t=3s)  
+> 📒 **Course Notes:** My personal notes for this course are compiled in `course02-notes.pdf`  
+> 🎓 **Course Focus:** Practical Python OOP fundamentals
 
 ---
 

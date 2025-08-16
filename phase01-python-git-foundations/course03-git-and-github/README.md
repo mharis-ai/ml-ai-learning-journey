@@ -3,8 +3,8 @@
 Hands-on implementation of **Git and GitHub** by Chai aur Code as part of **Phase 01 – Python & Git Foundations**. Covers Git basics, version control workflows, repositories, commits, branches, and collaboration practices.
 
 > 🔗 **Course Reference:** [Git and GitHub – Chai aur Code (YouTube)](https://www.youtube.com/watch?v=q8EevlEpQ2A&t=1s)  
-> 📘 **Course Documents:** [Chai aur Git – (ChaiDocs)](https://docs.chaicode.com/youtube/chai-aur-git/welcome)
-> 📒 **Course Notes:** My personal notes for this course are compiled in `course03-notes.pdf`.
+> 📘 **Course Documents:** [Chai aur Git – (ChaiDocs)](https://docs.chaicode.com/youtube/chai-aur-git/welcome)  
+> 📒 **Course Notes:** My personal notes for this course are compiled in `course03-notes.pdf`  
 > 🎓 **Course Focus:** Version control fundamentals, workflows, and developer discipline
 
 ---
@@ -85,4 +85,4 @@ course03-git-and-github/
 This course is part of **Phase01 – Python and Git Foundations**:
 
 > 🔸 **Git and GitHub – Chai aur Code (Youtube)**  
-As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on building strong version control skills using Git and GitHub. Upon completion, I will proceed to **Phase 02 – Data Analysis, Algorithms, and Engineering**.
+As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on building strong version control skills using Git and GitHub. Upon completion, I will proceed to **Phase 02 – Data Analysis, SQL, Algorithms, and Engineering**.

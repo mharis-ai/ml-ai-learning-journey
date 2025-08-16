@@ -8,7 +8,7 @@
 This repository documents my disciplined, full-time journey to become a **production-ready Machine Learning Engineer** — someone who not only understands AI systems in depth but can build them end to end with clarity, logic, and precision.
 
 The roadmap spans **75 weeks** and is organized into **10 structured phases**, covering:  
-**Python and Git Foundations**, **Data Analysis, Algorithms and Engineering**, **Mathematics for Machine Learning**, **Classical Machine Learning**, **Deep Learning Foundations**, **Cloud, Testing and ML System Design**, **MLOps and Production Machine Learning**, **Fullstack AI Development and Tools**, **Generative AI and LLM Foundations**, and **Advanced LLM Engineering, Agents, and RAG**.
+**Python and Git Foundations**, **Data Analysis, SQL, Algorithms and Engineering**, **Mathematics for Machine Learning**, **Classical Machine Learning**, **Deep Learning Foundations**, **Cloud, Testing and ML System Design**, **MLOps and Production Machine Learning**, **Fullstack AI Development and Tools**, **Generative AI and LLM Foundations**, and **Advanced LLM Engineering, Agents, and RAG**.
 
 Every concept here is studied, practiced, and implemented by me — with full effort, deep reasoning, and personal accountability at every step.
 
@@ -30,15 +30,15 @@ This is a consistent, long-term investment — not just to finish a roadmap, but
 ## 🧠 Principles I Follow
 
 - ✅ One top-rated, industry-approved course per phase — no hopping or overload  
-- ✅ All `.py` and `.ipynb` files are written through my own problem-solving — no shortcuts, no code generators.
-- ✅ All `.md` files are guided by ChatGPT — but based fully on my own progress and reflections.
-- ✅ Handwritten notes (when used, like in Math phases) are my personal derivations  
-- ✅ I reason through logic, debug actively, and write my own explanations  
-- ✅ ChatGPT is used only as a tutor, never a shortcut  
-- ✅ I revisit topics until they click — I don’t move on for the sake of pace  
-- ✅ I treat each module as real training, not just curriculum  
-- ✅ I push to GitHub on a fixed schedule — with clear structure, clean commits, and updated documentation. 
-- ✅ My portfolio is a reflection of real work — not automation
+- ✅ All `.py` and `.ipynb` files are created through my own problem-solving — no shortcuts, no code generators  
+- ✅ All `.md` files are guided by ChatGPT but based entirely on my own progress and reflections  
+- ✅ All handwritten notes are fully derived and written by me  
+- ✅ I reason through logic, debug actively, and explain concepts in my own words  
+- ✅ ChatGPT is used strictly as a tutor — never as a shortcut  
+- ✅ I revisit topics until they fully click — never moving on just to maintain pace  
+- ✅ I treat each module as practical training, not just curriculum  
+- ✅ I commit to GitHub on a fixed schedule — with clear structure, clean commits, and updated documentation  
+- ✅ My portfolio reflects genuine, hands-on work — never automation  
 
 ---
 
@@ -46,25 +46,25 @@ This is a consistent, long-term investment — not just to finish a roadmap, but
 
 Each phase targets a core skill area and is anchored by a top-tier course for focused and practical learning.
 
-| Phase  | Folder Name                                          | Focus Area                                        | Duration   |
-|--------|------------------------------------------------------|---------------------------------------------------|------------|
-| 01     | Phase 01 - Python and Git Foundations                | Python basics, Git, GitHub                        | 04 weeks   |
-| 02     | Phase 02 - Data Analysis, Algorithms and Engineering | Data analysis, SQL, DSA, data engineering         | 07 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning          | Algebra, calculus, linear algebra, prob and stats | 10 weeks   |
-| 04     | Phase 04 - Classical Machine Learning                | Supervised learning, regression, classification   | 06 weeks   |
-| 05     | Phase 05 - Deep Learning Foundations                 | Neural nets, CNNs, RNNs, optimization             | 10 weeks   |
-| 06     | Phase 06 - Cloud, Testing and ML System Design       | Docker, Kubernetes, testing, CI/CD, AWS           | 07 weeks   |
-| 07     | Phase 07 - MLOps and Production Machine Learning     | Deployment, pipelines, monitoring                 | 10 weeks   |
-| 08     | Phase 08 - Fullstack AI Development and Tools        | APIs, UIs, LangChain                              | 05 weeks   |
-| 09     | Phase 09 - Generative AI and LLM Foundations         | Prompt engineering, transformers, RAG             | 08 weeks   |
-| 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG | Agents, advanced LangChain, knowledge graphs      | 08 weeks   |
+| Phase  | Folder Name                                               | Focus Area                                        | Duration   |
+|--------|-----------------------------------------------------------|---------------------------------------------------|------------|
+| 01     | Phase 01 - Python and Git Foundations                     | Python basics, Git, GitHub                        | 05 weeks   |
+| 02     | Phase 02 - Data Analysis, SQL, Algorithms and Engineering | Pandas, NumPy, PostgreSQL, data engineering       | 07 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning               | Algebra, calculus, linear algebra, prob and stats | 10 weeks   |
+| 04     | Phase 04 - Classical Machine Learning                     | Supervised learning, regression, classification   | 06 weeks   |
+| 05     | Phase 05 - Deep Learning Foundations                      | Neural nets, CNNs, RNNs, optimization             | 10 weeks   |
+| 06     | Phase 06 - Cloud, Testing and ML System Design            | Docker, Kubernetes, testing, CI/CD, AWS           | 07 weeks   |
+| 07     | Phase 07 - MLOps and Production Machine Learning          | Deployment, pipelines, monitoring                 | 10 weeks   |
+| 08     | Phase 08 - Fullstack AI Development and Tools             | APIs, UIs, LangChain                              | 05 weeks   |
+| 09     | Phase 09 - Generative AI and LLM Foundations              | Prompt engineering, transformers, RAG             | 08 weeks   |
+| 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG      | Agents, advanced LangChain, knowledge graphs      | 08 weeks   |
 
 ---
 
 ## 📈 Progress Tracker
 
 - [x] **Phase 01 – Python and Git Foundations** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
-- [ ] Phase 02 – Data Analysis, Algorithms and Engineering
+- [ ] Phase 02 – Data Analysis, SQL, Algorithms and Engineering
 - [ ] Phase 03 – Mathematics for Machine Learning  
 - [ ] Phase 04 – Classical Machine Learning  
 - [ ] Phase 05 – Deep Learning Foundations
@@ -89,12 +89,12 @@ ml-ai-learning-journey/
 │   ├── course03-git-and-github/                                 → Git and GitHub for version control
 │   └── README.md                                                → Phase overview
 
-├── Phase 02 - Data Analysis, Algorithms and Engineering/
+├── Phase 02 - Data Analysis, SQL, Algorithms and Engineering/
 │   ├── course01-data-analysis-with-python-fcc/
 │   │   ├── subcourse01-data-analysis-with-python/               → Data analysis basics, Jupyter, data loading, Pandas, and data visualization
 │   │   ├── subcourse02-numpy/                                   → Numerical computing with NumPy
 │   │   └── subcourse03-data-analysis-with-python-projects/      → Hands-on data analysis projects with Python
-│   ├── course02-databases-sql-for-data-science-ibm/             → SQL fundamentals: filtering, joins, aggregation, subqueries
+│   ├── course02-the-complete-sql-bootcamp-jose-portilla/        → SQL fundamentals with PostgreSQL: filtering, sorting, joins, aggregation, subqueries
 │   ├── course03-dsa-python-fcc/                                 → Recursion, trees, graphs, and sorting
 │   ├── course04-data-engineering-zoomcamp-datatalks/            → Data ingestion, data warehousing, transformation
 │   └── README.md                                                → Phase overview
@@ -174,7 +174,7 @@ ml-ai-learning-journey/
 
 ### 🟧 Phase 02 – Data, SQL and DSA in Python 
 - [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)  
-- [Databases and SQL for Data Science with Python – IBM (Coursera)](https://www.coursera.org/learn/sql-data-science)
+- [The Complete SQL Bootcamp: Go from Zero to Hero – Jose Portilla](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)
 - [Data Structures and Algorithms in Python – FCC (YouTube)](https://www.youtube.com/watch?v=pkYVOmU3MgA)  
 - [Data Engineering Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
 
@@ -236,17 +236,22 @@ ml-ai-learning-journey/
 
 ## ⚙️ Tools, Technologies & Skills
 
-- 🐍 Python (procedural logic, loops, functions, file handling)  
-- 🔧 Git, GitHub (version control, branching, collaboration)  
-- 💻 CLI Workflows (command-line tools, Git commands, navigation)  
-- 📝 Jupyter Notebooks (used from Phase 2 onward for math, ML, DL)  
-- 📐 Math Foundations (Linear Algebra, Calculus, Probability, Statistics)  
-- 🧠 Classical Machine Learning (scikit-learn, pandas, NumPy)  
-- 🧬 Deep Learning (TensorFlow, PyTorch, CNNs, RNNs, optimization)  
-- 🛠️ MLOps & Pipelines (ML lifecycle, MLflow, Docker, CI/CD, testing)  
-- 🧱 Fullstack AI (FastAPI, Gradio, Streamlit, deployment)  
-- 🗣️ NLP & LLMs (LangChain, RAG, OpenAI API, embeddings, vector DBs)  
-- 📊 Documentation (Markdown, GitHub repo design, versioned notes)  
+- 🐍 **Python** – Procedural logic, loops, functions, file handling, object-oriented programming
+- 🔧 **Git and GitHub** – Version control, branching, collaboration  
+- 💻 **CLI Workflows** – Command-line tools, Git commands, navigation  
+- 🗄️ **SQL with PostgreSQL** – Filtering, sorting, joins, aggregation, subqueries  
+- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting, searching  
+- 📝 **Jupyter Notebooks** – Used from Phase 2 onward for data analysis, math, ML, and DL  
+- 📐 **Math Foundations** – Linear algebra, calculus, probability, statistics  
+- 🧠 **Classical Machine Learning** – scikit-learn, pandas, NumPy  
+- 🧬 **Deep Learning** – TensorFlow, PyTorch, CNNs, RNNs, optimization techniques  
+- ☁️ **Cloud and DevOps** – Docker, Kubernetes, AWS fundamentals  
+- 🧪 **Testing amd CI/CD** – Pytest, GitHub Actions, automated pipelines  
+- 🛠️ **MLOps and Pipelines** – ML lifecycle, MLflow, orchestration, deployment, monitoring  
+- 🧱 **Fullstack AI Development** – FastAPI, Gradio, Streamlit, deployment  
+- 🗣️ **NLP and LLMs** – LangChain, RAG, OpenAI API, embeddings, vector databases  
+- 🤖 **Advanced LLM Engineering** – Agents, advanced RAG, LlamaIndex, system design  
+- 📊 **Documentation and Repo Design** – Markdown, GitHub structure, versioned notes  
 
 ---
 
