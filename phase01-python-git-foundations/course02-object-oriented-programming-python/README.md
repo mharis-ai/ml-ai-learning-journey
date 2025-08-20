@@ -87,4 +87,4 @@ course02-object-oriented-programming-python/
 This course is part of **Phase01 – Python and Git Foundations**:
 
 > 🔸 **Course 02 – Object Oriented Programming in Python – Chai aur Code (Youtube)**  
-As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on strengthening programming fundamentals through Object-Oriented Programming in Python. Upon completion, I will proceed to the Git and GitHub course to continue Phase 01.
+As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on strengthening programming fundamentals through Object-Oriented Programming in Python. Upon completion, I will proceed to the **Git and GitHub** course to continue Phase 01.

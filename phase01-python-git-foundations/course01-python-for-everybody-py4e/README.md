@@ -141,4 +141,4 @@ course01-python-for-everybody-py4e/
 This course is part of **Phase01 – Python and Git Foundations**:
 
 > 🔸 **Course 01 – Python for Everybody – (PY4E)**  
-As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on developing strong programming fundamentals in Python. Upon completion, I will proceed to an Object-Oriented Programming tutorial to continue Phase 01.
+As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on developing strong programming fundamentals in Python. Upon completion, I will proceed to an **Object Oriented Programming in Python** course to continue Phase 01.

@@ -85,4 +85,4 @@ course03-git-and-github/
 This course is part of **Phase01 – Python and Git Foundations**:
 
 > 🔸 **Git and GitHub – Chai aur Code (Youtube)**  
-As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on building strong version control skills using Git and GitHub. Upon completion, I will proceed to **Phase 02 – Data Analysis, SQL, Algorithms, and Engineering**.
+As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on building strong version control skills using Git and GitHub. Upon completion, I will proceed to **Phase 02 – DSA, Data Analysis, SQL and Data Engineering**.
