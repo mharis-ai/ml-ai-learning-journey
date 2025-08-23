@@ -136,7 +136,7 @@ ml-ai-learning-journey/
 │   └── README.md                                                → Phase overview
 
 ├── Phase 07 - MLOps and Production Machine Learning/
-│   ├── course01-machine-learning-in-production-andrew-ng/       → ML deployment, production systems, and monitoring
+│   ├── course01-machine-learning-engineering-for-production     → ML deployment, production systems, and monitoring
 │   ├── course02-mlops-zoomcamp-datatalks/                       → End-to-end MLOps: orchestration, deployment, and monitoring
 │   ├── course03-full-stack-deep-learning-fsdl/                  → Full-stack ML system design and production workflows
 │   └── README.md                                                → Phase overview
@@ -199,7 +199,7 @@ ml-ai-learning-journey/
 - [Machine Learning System Design – cs329s (Stanford)](https://stanford-cs329s.github.io)
 
 ### 🟫 Phase 07 – MLOps and Production Machine Learning  
-- [Machine Learning in Production – Andrew Ng (Coursera)](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)  
+- [Machine Learning Engineering for Production – Andrew Ng (Youtube)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)  
 - [MLOps Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/mlops-zoomcamp)  
 - [Full Stack Deep Learning – (FSDL)](https://fullstackdeeplearning.com)
 
