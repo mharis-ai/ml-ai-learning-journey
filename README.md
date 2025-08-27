@@ -63,8 +63,8 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 
 ## 📈 Progress Tracker
 
-- [x] **Phase 01 – Python and Git Foundations** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
-- [ ] Phase 02 – DSA, Data Analysis, SQL and Data Engineering
+- [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
+- [x] **Phase 02 – DSA, Data Analysis, SQL and Data Engineering** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 03 – Mathematics for Machine Learning  
 - [ ] Phase 04 – Classical Machine Learning  
 - [ ] Phase 05 – Deep Learning Foundations
@@ -173,7 +173,7 @@ ml-ai-learning-journey/
 - [Git and GitHub – Chai aur Code (Youtube)](https://www.youtube.com/watch?v=q8EevlEpQ2A&t=1s)
 
 ### 🟧 Phase 02 – DSA, Data Analysis, SQL and Data Engineering 
-- [Data Structures and Algorithms using Python – CampusX (YouTube)](https://www.youtube.com/watch?v=f9Aje_cN_CY&t=18078s)
+- [Data Structures and Algorithms using Python – CampusX (YouTube)](https://www.youtube.com/watch?v=f9Aje_cN_CY)
 - [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)  
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)  
 - [Data Engineering Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) 

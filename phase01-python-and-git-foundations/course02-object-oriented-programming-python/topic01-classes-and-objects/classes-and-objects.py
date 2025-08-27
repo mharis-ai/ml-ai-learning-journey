@@ -12,3 +12,4 @@ class Car:
 
 car1 = Car("Nissan", "Patrol")
 print(f"My First Car is [{car1.full_name()}]")
+print(type(Car))
