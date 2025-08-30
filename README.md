@@ -49,8 +49,8 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 | Phase  | Folder Name                                              | Focus Area                                        | Duration   |
 |--------|----------------------------------------------------------|---------------------------------------------------|------------|
 | 01     | Phase 01 - Python and Git Foundations                    | Python basics, Git, GitHub                        | 05 weeks   |
-| 02     | Phase 02 - DSA, Data Analysis, SQL and Data Engineering  | Pandas, NumPy, PostgreSQL, data engineering       | 08 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning              | Algebra, calculus, linear algebra, prob and stats | 08 weeks   |
+| 02     | Phase 02 - DSA, Data Analysis, SQL and Data Engineering  | Algorithms, Pandas, NumPy, PostgreSQL             | 08 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning              | Linear algebra, calculus, probability and stats   | 08 weeks   |
 | 04     | Phase 04 - Classical Machine Learning                    | Supervised learning, regression, classification   | 06 weeks   |
 | 05     | Phase 05 - Deep Learning Foundations                     | Neural nets, CNNs, RNNs, optimization             | 10 weeks   |
 | 06     | Phase 06 - Cloud, Testing and ML System Design           | Docker, Kubernetes, testing, CI/CD, AWS           | 07 weeks   |
@@ -100,14 +100,10 @@ ml-ai-learning-journey/
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
-│   ├── course01-mathematical-foundations-khanacademy/                    
-│   │   ├── subcourse01-linearalgebra-geometry-trigonometry/     → Core algebra, geometry, and trigonometry.
-│   │   ├── subcourse02-precalculus-calculus/                    → Precalculus and basic calculus.
-│   │   └── subcourse03-probability-statistics-foundations/      → Basic probability and statistics.
-│   ├── course02-mathematics-for-ml-specialization/
+│   ├── course01-mathematics-for-ml-specialization/
 │   │   ├── subcourse01-linear-algebra/                          → Essential linear algebra for ML models
 │   │   └── subcourse02-multivariate-calculus/                   → Learn gradients and optimization methods
-│   ├── course03-probability-statistics-ml-ds/                   → Applied probability and statistics for Machine Learning and Data Science
+│   ├── course02-probability-statistics-ml-ds/                   → Applied probability and statistics for Machine Learning and Data Science
 │   └── README.md                                                → Phase overview
 
 ├── Phase 04 - Classical Machine Learning/
@@ -179,7 +175,6 @@ ml-ai-learning-journey/
 - [Data Engineering Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
-- [Mathematical Foundations – (Khan Academy) ](https://www.khanacademy.org)  
 - [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Probability & Statistics for ML and Data Science – (Coursera) ](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
 
@@ -231,6 +226,8 @@ ml-ai-learning-journey/
 | Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)               |
 | Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)           |
 | Sunday        | 📢 Share weekly learning summary on LinkedIn (public accountability and recap)  |
+
+*Note: Very rarely, some days may be shorter than 8 hrs (once a week or every two weeks).*
 
 ---
 
