@@ -90,7 +90,9 @@ ml-ai-learning-journey/
 │   └── README.md                                                → Phase overview
 
 ├── Phase 02 - DSA, Data Analysis, SQL and Data Engineering/
-│   ├── course01-dsa-python-campusx/                             → Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting
+│   ├── course01-dsa-python/
+│   │   ├── subcourse01-foundations-campusx/                     → Array, Linked List, Stack, Queue, Hashing
+│   │   ├── subcourse02-advanced-code-and-debug/                 → Recursion, Trees, Graphs, DP, Greedy, Backtracking, Bit Manipulation, String Algorithms
 │   ├── course02-data-analysis-with-python-fcc/
 │   │   ├── subcourse01-data-analysis-with-python-fcc/           → Data analysis basics, Jupyter, data loading, Pandas, and data visualization
 │   │   ├── subcourse02-numpy/                                   → Numerical computing with NumPy
@@ -170,13 +172,14 @@ ml-ai-learning-journey/
 
 ### 🟧 Phase 02 – DSA, Data Analysis, SQL and Data Engineering 
 - [Data Structures and Algorithms using Python – CampusX (YouTube)](https://www.youtube.com/watch?v=f9Aje_cN_CY)
+- [Data Structures and Algorithms with Python – Code and Debug (YouTube)](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU)
 - [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)  
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)  
 - [Data Engineering Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
 - [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Probability & Statistics for ML and Data Science – (Coursera) ](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
+- [Probability and Statistics for ML and Data Science – (Coursera) ](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
 
 ### 🟦 Phase 04 – Classical Machine Learning  
 - [Supervised Machine Learning: Regression and Classification – (Coursera)](https://www.coursera.org/learn/supervised-machine-learning)  
@@ -220,14 +223,14 @@ ml-ai-learning-journey/
 
 ## 📅 Weekly Workflow
 
-| Day           | Task                                                                            |
-|---------------|---------------------------------------------------------------------------------|
-| Monday–Sunday | Daily learning, implementation, and documentation (8 hrs/day)                   |
-| Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)               |
-| Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)           |
-| Sunday        | 📢 Share weekly learning summary on LinkedIn (public accountability and recap)  |
+| Day           | Task                                                                                     |
+|---------------|------------------------------------------------------------------------------------------|
+| 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (8 hrs/day)                  |
+| 🔄 Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)                      |
+| 📂 Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)                  |
+| 📢 Sunday        | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
 
-*Note: Very rarely, some days may be shorter than 8 hrs (once a week or every two weeks).*
+*Note: The focus is on consistent progress — most weeks target 8-hour study days, though some may include shorter sessions or rest days.*
 
 ---
 
@@ -236,7 +239,7 @@ ml-ai-learning-journey/
 - 🐍 **Python** – Procedural logic, loops, functions, file handling, object-oriented programming
 - 🔧 **Git and GitHub** – Version control, branching, collaboration  
 - 💻 **CLI Workflows** – Command-line tools, Git commands, navigation
-- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting  
+- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting, dynamic programming, string algorithms  
 - 🗄️ **SQL with PostgreSQL** – Filtering, sorting, joins, aggregation, subqueries  
 - 📝 **Jupyter Notebooks** – Used from Phase 2 onward for data analysis, math, ML, and DL  
 - 📐 **Math Foundations** – Linear algebra, calculus, probability, statistics  
