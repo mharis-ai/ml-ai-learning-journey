@@ -49,12 +49,12 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 | Phase  | Folder Name                                              | Focus Area                                        | Duration   |
 |--------|----------------------------------------------------------|---------------------------------------------------|------------|
 | 01     | Phase 01 - Python and Git Foundations                    | Python basics, Git, GitHub                        | 05 weeks   |
-| 02     | Phase 02 - DSA, Data Analysis, SQL and Data Engineering  | Algorithms, Pandas, NumPy, PostgreSQL             | 08 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning              | Linear algebra, calculus, probability and stats   | 08 weeks   |
+| 02     | Phase 02 - DSA, Data Analysis, SQL and Data Engineering  | Algorithms, Pandas, NumPy, PostgreSQL             | 12 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning              | Linear algebra, calculus, probability and stats   | 06 weeks   |
 | 04     | Phase 04 - Classical Machine Learning                    | Supervised learning, regression, classification   | 06 weeks   |
 | 05     | Phase 05 - Deep Learning Foundations                     | Neural nets, CNNs, RNNs, optimization             | 10 weeks   |
 | 06     | Phase 06 - Cloud, Testing and ML System Design           | Docker, Kubernetes, testing, CI/CD, AWS           | 07 weeks   |
-| 07     | Phase 07 - MLOps and Production Machine Learning         | Deployment, pipelines, monitoring                 | 10 weeks   |
+| 07     | Phase 07 - MLOps and Production Machine Learning         | Deployment, pipelines, monitoring                 | 08 weeks   |
 | 08     | Phase 08 - Fullstack AI Development and Tools            | APIs, UIs, LangChain                              | 05 weeks   |
 | 09     | Phase 09 - Generative AI and LLM Foundations             | Prompt engineering, transformers, RAG             | 08 weeks   |
 | 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG     | Agents, advanced LangChain, knowledge graphs      | 08 weeks   |
