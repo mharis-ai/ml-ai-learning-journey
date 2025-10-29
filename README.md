@@ -8,7 +8,7 @@
 This repository documents my disciplined, full-time journey to become a **production-ready Machine Learning Engineer** — someone who not only understands AI systems in depth but can build them end to end with clarity, logic, and precision.
 
 The roadmap spans **75 weeks** and is organized into **10 structured phases**, covering:  
-**Python and Git Foundations**, **DSA, Data Analysis, SQL and Data Engineering**, **Mathematics for Machine Learning**, **Classical Machine Learning**, **Deep Learning Foundations**, **Cloud, Testing and ML System Design**, **MLOps and Production Machine Learning**, **Fullstack AI Development and Tools**, **Generative AI and LLM Foundations**, and **Advanced LLM Engineering, Agents, and RAG**.
+**Python and Git Foundations**, **DSA, SQL and Data Analysis**, **Mathematics for Machine Learning**, **Classical Machine Learning**, **Deep Learning Foundations**, **Cloud, Testing and ML System Design**, **MLOps and Production Machine Learning**, **Fullstack AI Development and Tools**, **Generative AI and LLM Foundations**, and **Advanced LLM Engineering, Agents, and RAG**.
 
 Every concept here is studied, practiced, and implemented by me — with full effort, deep reasoning, and personal accountability at every step.
 
@@ -46,25 +46,25 @@ This is a consistent, long-term investment — not just to finish a roadmap, but
 
 Each phase targets a core skill area and is anchored by a top-tier course for focused and practical learning.
 
-| Phase  | Folder Name                                              | Focus Area                                        | Duration   |
-|--------|----------------------------------------------------------|---------------------------------------------------|------------|
-| 01     | Phase 01 - Python and Git Foundations                    | Python basics, Git, GitHub                        | 05 weeks   |
-| 02     | Phase 02 - DSA, Data Analysis, SQL and Data Engineering  | Algorithms, Pandas, NumPy, PostgreSQL             | 12 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning              | Linear algebra, calculus, probability and stats   | 06 weeks   |
-| 04     | Phase 04 - Classical Machine Learning                    | Supervised learning, regression, classification   | 06 weeks   |
-| 05     | Phase 05 - Deep Learning Foundations                     | Neural nets, CNNs, RNNs, optimization             | 10 weeks   |
-| 06     | Phase 06 - Cloud, Testing and ML System Design           | Docker, Kubernetes, testing, CI/CD, AWS           | 07 weeks   |
-| 07     | Phase 07 - MLOps and Production Machine Learning         | Deployment, pipelines, monitoring                 | 08 weeks   |
-| 08     | Phase 08 - Fullstack AI Development and Tools            | APIs, UIs, LangChain                              | 05 weeks   |
-| 09     | Phase 09 - Generative AI and LLM Foundations             | Prompt engineering, transformers, RAG             | 08 weeks   |
-| 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG     | Agents, advanced LangChain, knowledge graphs      | 08 weeks   |
+| Phase  | Folder Name                                           | Focus Area                                                   | Duration   |
+|--------|-------------------------------------------------------|--------------------------------------------------------------|------------|
+| 01     | Phase 01 - Python and Git Foundations                 | Python basics, Git, GitHub                                   | 05 weeks   |
+| 02     | Phase 02 - DSA, SQL and Data Analysis                 | Algorithms, PostgreSQL, NumPy, Pandas and Data visualization | 12 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and stats              | 06 weeks   |
+| 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, regression, classification              | 06 weeks   |
+| 05     | Phase 05 - Deep Learning Foundations                  | Neural nets, CNNs, RNNs, optimization                        | 10 weeks   |
+| 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 07 weeks   |
+| 07     | Phase 07 - MLOps and Production Machine Learning      | Deployment, pipelines, monitoring                            | 08 weeks   |
+| 08     | Phase 08 - Fullstack AI Development and Tools         | APIs, UIs, LangChain                                         | 05 weeks   |
+| 09     | Phase 09 - Generative AI and LLM Foundations          | Prompt engineering, transformers, RAG                        | 08 weeks   |
+| 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG  | Agents, advanced LangChain, knowledge graphs                 | 08 weeks   |
 
 ---
 
 ## 📈 Progress Tracker
 
 - [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
-- [x] **Phase 02 – DSA, Data Analysis, SQL and Data Engineering** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
+- [x] **Phase 02 – DSA, SQL and Data Analysis** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 03 – Mathematics for Machine Learning  
 - [ ] Phase 04 – Classical Machine Learning  
 - [ ] Phase 05 – Deep Learning Foundations
@@ -89,16 +89,15 @@ ml-ai-learning-journey/
 │   ├── course03-git-and-github/                                 → Git and GitHub for version control
 │   └── README.md                                                → Phase overview
 
-├── Phase 02 - DSA, Data Analysis, SQL and Data Engineering/
+├── Phase 02 - DSA, SQL and Data Analysis/
 │   ├── course01-dsa-python/
 │   │   ├── subcourse01-foundations-campusx/                     → Array, Linked List, Stack, Queue, Hashing
-│   │   ├── subcourse02-advanced-code-and-debug/                 → Recursion, Trees, Graphs, DP, Greedy, Backtracking, Bit Manipulation, String Algorithms
-│   ├── course02-data-analysis-with-python-fcc/
+│   │   ├── subcourse02-advanced-code-and-debug/                 → Sorting, Searching, Backtracking, Greedy, Trees, Heaps, Graphs
+│   ├── course02-the-complete-sql-bootcamp/                      → SQL fundamentals with PostgreSQL: filtering, sorting, joins, aggregation
+│   ├── course03-data-analysis-with-python-fcc/
 │   │   ├── subcourse01-data-analysis-with-python-fcc/           → Data analysis basics, Jupyter, data loading, Pandas, and data visualization
 │   │   ├── subcourse02-numpy/                                   → Numerical computing with NumPy
 │   │   └── subcourse03-data-analysis-with-python-projects/      → Hands-on data analysis projects with Python
-│   ├── course03-the-complete-sql-bootcamp/                      → SQL fundamentals with PostgreSQL: filtering, sorting, joins, aggregation, subqueries
-│   ├── course04-data-engineering-zoomcamp-datatalks/            → Data ingestion, data warehousing, transformation
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
@@ -170,12 +169,11 @@ ml-ai-learning-journey/
 - [Object Oriented Programming in Python – Chai aur Code (Youtube)](https://www.youtube.com/watch?v=6soT3DMBJGQ&t=2s) 
 - [Git and GitHub – Chai aur Code (Youtube)](https://www.youtube.com/watch?v=q8EevlEpQ2A&t=1s)
 
-### 🟧 Phase 02 – DSA, Data Analysis, SQL and Data Engineering 
+### 🟧 Phase 02 – DSA, SQL and Data Analysis 
 - [Data Structures and Algorithms using Python – CampusX (YouTube)](https://www.youtube.com/watch?v=f9Aje_cN_CY)
 - [Data Structures and Algorithms with Python – Code and Debug (YouTube)](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU)
-- [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)  
-- [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)  
-- [Data Engineering Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
+- [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)
+- [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)    
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
 - [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
