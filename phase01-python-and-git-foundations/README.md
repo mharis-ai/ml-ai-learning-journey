@@ -36,4 +36,4 @@ phase01-python-and-git-foundations/
 | 🔍 Section        | 💬 Details |
 |------------------|------------|
 | **Integrity**     | All code is manually written by me without using auto-solvers or AI-generated answers. I only use ChatGPT for conceptual guidance, documentation refinement, and structuring help — never for copying solutions. I strive to build logic independently and seek help only when genuinely stuck. |
-| **Next Phase**    | After completing Phase 01, I will move to **Phase 02 – DSA, Data Analysis, SQL and Data Engineering**, focusing on core algorithms, essential data analysis skills, and practical engineering techniques for machine learning workflows. |
+| **Next Phase**    | After completing Phase 01, I will move to **Phase 02 – DSA, SQL and Data Analysis**, focusing on core algorithms, essential data analysis skills, and practical engineering techniques for machine learning workflows. |

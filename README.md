@@ -19,7 +19,7 @@ Every concept here is studied, practiced, and implemented by me — with full ef
 ## 🔥 Weekly Commitment
 
 - 🗓️ **Daily (Monday–Sunday)**  
-- ⏱️ **8 hours/day**  
+- ⏱️ **6 hours/day**  
 - 🗃️ **GitHub commits every Wednesday and Saturday**
 - 📝 **Weekly LinkedIn Learning Summary – Posted Every Sunday**
 
@@ -64,7 +64,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 ## 📈 Progress Tracker
 
 - [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
-- [x] **Phase 02 – DSA, SQL and Data Analysis** — *In progress · 8 hrs/day · GitHub pushes every Wed and Sat*
+- [x] **Phase 02 – DSA, SQL and Data Analysis** — *In progress · 6 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 03 – Mathematics for Machine Learning  
 - [ ] Phase 04 – Classical Machine Learning  
 - [ ] Phase 05 – Deep Learning Foundations
@@ -223,12 +223,12 @@ ml-ai-learning-journey/
 
 | Day           | Task                                                                                     |
 |---------------|------------------------------------------------------------------------------------------|
-| 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (8 hrs/day)                  |
+| 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (6 hrs/day)                  |
 | 🔄 Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)                      |
 | 📂 Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)                  |
 | 📢 Sunday        | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
 
-*Note: The focus is on consistent progress — most weeks target 8-hour study days, though some may include shorter sessions or rest days.*
+*Note: The focus is on consistent progress — most weeks target 6-hour study days, though some may include shorter sessions or rest days.*
 
 ---
 
