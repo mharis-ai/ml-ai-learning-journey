@@ -4,7 +4,7 @@ This phase lays the groundwork for my ML and AI journey by focusing on two essen
 
 ---
 
-## 🧩 Courses Included
+## 📚 Courses Included
 
 | #    | Course Title                               | Folder Name                                    |
 |------|--------------------------------------------|------------------------------------------------|

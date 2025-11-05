@@ -94,17 +94,17 @@ ml-ai-learning-journey/
 │   │   ├── subcourse01-foundations-campusx/                     → Array, Linked List, Stack, Queue, Hashing
 │   │   ├── subcourse02-advanced-code-and-debug/                 → Sorting, Searching, Backtracking, Greedy, Trees, Heaps, Graphs
 │   ├── course02-the-complete-sql-bootcamp/                      → SQL fundamentals with PostgreSQL: filtering, sorting, joins, aggregation
-│   ├── course03-data-analysis-with-python-fcc/
-│   │   ├── subcourse01-data-analysis-with-python-fcc/           → Data analysis basics, Jupyter, data loading, Pandas, and data visualization
-│   │   ├── subcourse02-numpy/                                   → Numerical computing with NumPy
-│   │   └── subcourse03-data-analysis-with-python-projects/      → Hands-on data analysis projects with Python
+│   ├── course03-data-analysis-with-python-sheryians-ai-school/
+│   │   ├── subcourse01-numpy/                                   → Numerical computing with Python using NumPy
+│   │   ├── subcourse02-pandas/                                  → Data manipulation and analysis with Pandas
+│   │   └── subcourse03-data-visualization/                      → Data visualization and storytelling with Matplotlib and Seaborn
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
-│   ├── course01-mathematics-for-ml-specialization/
+│   ├── course01-statistics-sheryians-ai-school/                 → Applied probability and statistics for Machine Learning and Data Science
+│   ├── course02-mathematics-for-ml-specialization/
 │   │   ├── subcourse01-linear-algebra/                          → Essential linear algebra for ML models
 │   │   └── subcourse02-multivariate-calculus/                   → Learn gradients and optimization methods
-│   ├── course02-probability-statistics-ml-ds/                   → Applied probability and statistics for Machine Learning and Data Science
 │   └── README.md                                                → Phase overview
 
 ├── Phase 04 - Classical Machine Learning/
@@ -173,11 +173,13 @@ ml-ai-learning-journey/
 - [Data Structures and Algorithms using Python – CampusX (YouTube)](https://www.youtube.com/watch?v=f9Aje_cN_CY)
 - [Data Structures and Algorithms with Python – Code and Debug (YouTube)](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU)
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)
-- [Data Analysis with Python – (FreeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python)    
+- [NumPy – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=Utgwk0r9Zq4&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=2) 
+- [Pandas Library – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3)
+- [Complete Data Visualization Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=-jTD74eEy2I&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=4)
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
+- [Complete Statistics Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5)
 - [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Probability and Statistics for ML and Data Science – (Coursera) ](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
 
 ### 🟦 Phase 04 – Classical Machine Learning  
 - [Supervised Machine Learning: Regression and Classification – (Coursera)](https://www.coursera.org/learn/supervised-machine-learning)  
