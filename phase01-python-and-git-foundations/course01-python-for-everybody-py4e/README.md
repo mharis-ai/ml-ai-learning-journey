@@ -101,6 +101,7 @@ course01-python-for-everybody-py4e/
 │   ├── extract-data-from-json.py
 │   ├── using-the-geojson-api.py
 │   └── README.md
+├── course01-notes.pdf
 └── README.md    ← Course overview
 
 ```
@@ -129,7 +130,7 @@ course01-python-for-everybody-py4e/
 
 - Python 3.13  
 - Visual Studio Code  
-- Git CLI (manual, no GUI)  
+- Git CLI  
 - GitHub  
 - Markdown for documentation  
 - Manual terminal-based version control

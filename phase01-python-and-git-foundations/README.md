@@ -1,6 +1,6 @@
 # 📘 Phase 01 – Python and Git Foundations
 
-This phase lays the groundwork for my ML and AI journey by focusing on two essential skills: Python programming and Git-based version control. It includes structured coding practice, clean documentation, and consistent versioning across two core courses.
+This phase lays the groundwork for my ML and AI journey by focusing on two essential skills: Python programming and Git-based version control. It emphasizes structured coding practice, clean documentation, and consistent versioning to build a strong development discipline from the start.
 
 ---
 
@@ -36,4 +36,4 @@ phase01-python-and-git-foundations/
 | 🔍 Section        | 💬 Details |
 |------------------|------------|
 | **Integrity**     | All code is manually written by me without using auto-solvers or AI-generated answers. I only use ChatGPT for conceptual guidance, documentation refinement, and structuring help — never for copying solutions. I strive to build logic independently and seek help only when genuinely stuck. |
-| **Next Phase**    | After completing Phase 01, I will move to **Phase 02 – DSA, SQL and Data Analysis**, focusing on core algorithms, essential data analysis skills, and practical engineering techniques for machine learning workflows. |
+| **Next Phase**    | After completing Phase 01, I will move to **Phase 02 – DSA, SQL, and Data Analysis**, where I will develop strong algorithmic reasoning, essential data querying skills, and practical data analysis workflows for real-world machine learning tasks. |

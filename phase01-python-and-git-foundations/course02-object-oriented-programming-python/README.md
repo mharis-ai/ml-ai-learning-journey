@@ -48,6 +48,7 @@ course02-object-oriented-programming-python/
 │   └── inheritance-and-method-overriding.py
 ├── topic05-multiple-inheritance/ 
 │   └── multiple-inheritance.py
+├── course02-notes.pdf
 └── README.md    ← Course overview 
 
 ```
@@ -75,7 +76,7 @@ course02-object-oriented-programming-python/
 
 - Python 3.13  
 - Visual Studio Code  
-- Git CLI (manual, no GUI)  
+- Git CLI  
 - GitHub  
 - Markdown for documentation  
 - Manual terminal-based version control

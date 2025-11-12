@@ -51,6 +51,7 @@ course03-git-and-github/
 │   └── managing-history.md
 ├── topic06-collaborate-with-github/ 
 │   └── collaborate-with-github.md
+├── course03-notes.pdf 
 └── README.md    ← Course overview
 
 ```
@@ -73,7 +74,7 @@ course03-git-and-github/
 ## 🛠️ Tools Used
   
 - Visual Studio Code  
-- Git CLI (manual, no GUI)  
+- Git CLI
 - GitHub  
 - Markdown for documentation  
 - Manual terminal-based version control
