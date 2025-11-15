@@ -45,10 +45,10 @@ Both subcourses focused on developing strong core problem-solving fundamentals, 
 
 ```text
 course01-dsa-python/
-├── subcourse01-foundations-campusx/          ← DSA fundamentals
-├── subcourse02-advanced-code-and-debug/      ← Algorithmic refinement
-├── leetcode/                                 ← Ongoing practice and pattern recognition
-└── README.md                                 ← Course overview
+├── subcourse01-foundations-campusx/         → DSA fundamentals
+├── subcourse02-advanced-code-and-debug/     → Algorithmic refinement
+├── leetcode/                                → Ongoing practice and pattern recognition
+└── README.md                                → Course overview
 
 ```
 

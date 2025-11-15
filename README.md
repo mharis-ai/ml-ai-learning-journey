@@ -21,7 +21,7 @@ Every concept here is studied, practiced, and implemented by me — with full ef
 - 🗓️ **Daily (Monday–Sunday)**  
 - ⏱️ **6 hours/day**  
 - 🗃️ **GitHub commits every Wednesday and Saturday**
-- 📝 **Weekly LinkedIn Learning Summary – Posted Every Sunday**
+- 📝 **Weekly LinkedIn Learning Summary – Posted Every Tuesday**
 
 This is a consistent, long-term investment — not just to finish a roadmap, but to become a capable ML/AI engineer through depth and repetition.
 
@@ -97,7 +97,7 @@ ml-ai-learning-journey/
 │   ├── course03-data-analysis-with-python-sheryians-ai-school/
 │   │   ├── subcourse01-numpy/                                   → Numerical computing with Python using NumPy
 │   │   ├── subcourse02-pandas/                                  → Data manipulation and analysis with Pandas
-│   │   └── subcourse03-data-visualization/                      → Data visualization and storytelling with Matplotlib and Seaborn
+│   │   └── subcourse03-data-visualization/                      ← Visualization using Matplotlib, Seaborn and Plotly
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
@@ -174,8 +174,8 @@ ml-ai-learning-journey/
 - [Data Structures and Algorithms with Python – Code and Debug (YouTube)](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU)
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.youtube.com/playlist?list=PLWvsD70fswo5DJBWDUhPkcc1p63eRchao)
 - [NumPy – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=Utgwk0r9Zq4&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=2) 
-- [Pandas Library – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3)
-- [Complete Data Visualization Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=-jTD74eEy2I&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=4)
+- [Pandas – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3)
+- [Data Visualization – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=-jTD74eEy2I&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=4)
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
 - [Complete Statistics Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5)
@@ -228,7 +228,7 @@ ml-ai-learning-journey/
 | 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (6 hrs/day)                  |
 | 🔄 Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)                      |
 | 📂 Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)                  |
-| 📢 Sunday        | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
+| 📢 Tuesday       | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
 
 *Note: The focus is on consistent progress — most weeks target 6-hour study days, though some may include shorter sessions or rest days.*
 
@@ -239,7 +239,7 @@ ml-ai-learning-journey/
 - 🐍 **Python** – Procedural logic, loops, functions, file handling, object-oriented programming
 - 🔧 **Git and GitHub** – Version control, branching, collaboration  
 - 💻 **CLI Workflows** – Command-line tools, Git commands, navigation
-- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting, dynamic programming, string algorithms  
+- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting, heaps, strings
 - 🗄️ **SQL with PostgreSQL** – Filtering, sorting, joins, aggregation, subqueries  
 - 📝 **Jupyter Notebooks** – Used from Phase 2 onward for data analysis, math, ML, and DL  
 - 📐 **Math Foundations** – Linear algebra, calculus, probability, statistics  
@@ -266,7 +266,6 @@ See the [LICENSE](./LICENSE) file for full usage rights.
 
 - 🔗 [GitHub](https://github.com/mharis-ai)  
 - 💼 [LinkedIn](https://linkedin.com/in/mharis-ai)  
-- 📂 [Main Profile Repo](https://github.com/mharis-ai/mharis-ai)
 
 ---
 

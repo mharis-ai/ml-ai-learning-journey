@@ -91,4 +91,4 @@ This course is part of **Phase 02 – DSA, SQL and Data Analysis**:
 
 > 🔸 **The Complete SQL Bootcamp: Go from Zero to Hero**  
 As part of my structured 10-phase ML/AI Engineering roadmap, this course focuses on building strong practical SQL querying skills.  
-Upon completion, I will proceed to **Data Analysis with Python – (FreeCodeCamp)** within the same phase.
+Upon completion, I will proceed to **Data Analysis with Python – (FreeCodeCamp)** within the same phase. 
