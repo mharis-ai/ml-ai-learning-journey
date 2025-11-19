@@ -50,7 +50,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 |--------|-------------------------------------------------------|--------------------------------------------------------------|------------|
 | 01     | Phase 01 - Python and Git Foundations                 | Python basics, Git, GitHub                                   | 05 weeks   |
 | 02     | Phase 02 - DSA, SQL and Data Analysis                 | Algorithms, PostgreSQL, NumPy, Pandas and Data visualization | 12 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and stats              | 06 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and statistics         | 06 weeks   |
 | 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, regression, classification              | 06 weeks   |
 | 05     | Phase 05 - Deep Learning Foundations                  | Neural nets, CNNs, RNNs, optimization                        | 10 weeks   |
 | 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 07 weeks   |
@@ -64,8 +64,8 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 ## 📈 Progress Tracker
 
 - [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
-- [x] **Phase 02 – DSA, SQL and Data Analysis** — *In progress · 6 hrs/day · GitHub pushes every Wed and Sat*
-- [ ] Phase 03 – Mathematics for Machine Learning  
+- [x] **Phase 02 – DSA, SQL and Data Analysis** — *✅ Completed*
+- [x] **Phase 03 – Mathematics for Machine Learning** — *In progress · 6 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 04 – Classical Machine Learning  
 - [ ] Phase 05 – Deep Learning Foundations
 - [ ] Phase 06 – Cloud, Testing, and ML System Design
@@ -101,8 +101,9 @@ ml-ai-learning-journey/
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
-│   ├── course01-statistics-sheryians-ai-school/                 → Applied probability and statistics for Machine Learning and Data Science
-│   ├── course02-mathematics-for-ml-specialization/
+│   ├── course01-statistic-sheryians-ai-school/                  → Applied statistics for Machine Learning and Data Science
+│   ├── course02-probability-in-data-science-campusx/            → Applied probability for Machine Learning and Data Science
+│   ├── course03-mathematics-for-ml-specialization/
 │   │   ├── subcourse01-linear-algebra/                          → Essential linear algebra for ML models
 │   │   └── subcourse02-multivariate-calculus/                   → Learn gradients and optimization methods
 │   └── README.md                                                → Phase overview
@@ -178,7 +179,9 @@ ml-ai-learning-journey/
 - [Data Visualization – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=-jTD74eEy2I&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=4)
 
 ### 🟨 Phase 03 – Mathematics for Machine Learning  
-- [Complete Statistics Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5)
+- [Complete Statistics Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5) 
+- [Master Probability in Data Science: The Ultimate Crash Course Part 1 – CampusX (Youtube)](https://www.youtube.com/watch?v=DUT4WEUngt0) 
+- [Master Probability in Data Science: The Ultimate Crash Course Part 2 – CampusX (Youtube)](https://www.youtube.com/watch?v=ndHDsvqmbuI&t=809s)
 - [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ### 🟦 Phase 04 – Classical Machine Learning  
