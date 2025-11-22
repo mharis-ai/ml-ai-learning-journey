@@ -97,15 +97,14 @@ ml-ai-learning-journey/
 │   ├── course03-data-analysis-with-python-sheryians-ai-school/
 │   │   ├── subcourse01-numpy/                                   → Numerical computing with Python using NumPy
 │   │   ├── subcourse02-pandas/                                  → Data manipulation and analysis with Pandas
-│   │   └── subcourse03-data-visualization/                      ← Visualization using Matplotlib, Seaborn and Plotly
+│   │   └── subcourse03-data-visualization/                      → Visualization using Matplotlib, Seaborn and Plotly
 │   └── README.md                                                → Phase overview
 
 ├── Phase 03 - Mathematics for Machine Learning/
-│   ├── course01-statistic-sheryians-ai-school/                  → Applied statistics for Machine Learning and Data Science
-│   ├── course02-probability-in-data-science-campusx/            → Applied probability for Machine Learning and Data Science
-│   ├── course03-mathematics-for-ml-specialization/
-│   │   ├── subcourse01-linear-algebra/                          → Essential linear algebra for ML models
-│   │   └── subcourse02-multivariate-calculus/                   → Learn gradients and optimization methods
+│   ├── course01-statistics-sheryians-ai-school/                 → Applied Statistics for Machine Learning
+│   ├── course02-probability-in-data-science-campusx/            → Applied Probability for Machine Learning
+│   ├── course03-linear-algebra-for-machine-learning-jon-krohn/  → Practical Linear Algebra for Machine Learning
+│   ├── course04-calculus-for-machine-learning-jon-krohn/        → Practical Calculus for Machine Learning
 │   └── README.md                                                → Phase overview
 
 ├── Phase 04 - Classical Machine Learning/
@@ -182,7 +181,8 @@ ml-ai-learning-journey/
 - [Complete Statistics Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5) 
 - [Master Probability in Data Science: The Ultimate Crash Course Part 1 – CampusX (Youtube)](https://www.youtube.com/watch?v=DUT4WEUngt0) 
 - [Master Probability in Data Science: The Ultimate Crash Course Part 2 – CampusX (Youtube)](https://www.youtube.com/watch?v=ndHDsvqmbuI&t=809s)
-- [Mathematics for Machine Learning Specialization – (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Linear Algebra for Machine Learning – Jon Krohn (Youtube)](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
+- [Calculus for Machine Learning – Jon Krohn (Youtube)](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 
 ### 🟦 Phase 04 – Classical Machine Learning  
 - [Supervised Machine Learning: Regression and Classification – (Coursera)](https://www.coursera.org/learn/supervised-machine-learning)  
