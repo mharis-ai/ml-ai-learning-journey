@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-# Jupyter Notebook Checkpoints
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 # VS Code
 .vscode/
