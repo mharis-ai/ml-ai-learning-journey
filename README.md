@@ -19,7 +19,7 @@ Every concept here is studied, practiced, and implemented by me — with full ef
 ## 🔥 Weekly Commitment
 
 - 🗓️ **Daily (Monday–Sunday)**  
-- ⏱️ **6 hours/day**  
+- ⏱️ **5 hours/day**  
 - 🗃️ **GitHub commits every Wednesday and Saturday**
 - 📝 **Weekly LinkedIn Learning Summary – Posted Every Tuesday**
 
@@ -50,12 +50,12 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 |--------|-------------------------------------------------------|--------------------------------------------------------------|------------|
 | 01     | Phase 01 - Python and Git Foundations                 | Python basics, Git, GitHub                                   | 05 weeks   |
 | 02     | Phase 02 - DSA, SQL and Data Analysis                 | Algorithms, PostgreSQL, NumPy, Pandas and Data visualization | 12 weeks   |
-| 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and statistics         | 06 weeks   |
+| 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and statistics         | 04 weeks   |
 | 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, regression, classification              | 06 weeks   |
 | 05     | Phase 05 - Deep Learning Foundations                  | Neural nets, CNNs, RNNs, optimization                        | 10 weeks   |
-| 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 07 weeks   |
-| 07     | Phase 07 - MLOps and Production Machine Learning      | Deployment, pipelines, monitoring                            | 08 weeks   |
-| 08     | Phase 08 - Fullstack AI Development and Tools         | APIs, UIs, LangChain                                         | 05 weeks   |
+| 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 06 weeks   |
+| 07     | Phase 07 - MLOps and Production Machine Learning      | Deployment, pipelines, monitoring                            | 10 weeks   |
+| 08     | Phase 08 - Fullstack AI Development and Tools         | APIs, UIs, LangChain                                         | 06 weeks   |
 | 09     | Phase 09 - Generative AI and LLM Foundations          | Prompt engineering, transformers, RAG                        | 08 weeks   |
 | 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG  | Agents, advanced LangChain, knowledge graphs                 | 08 weeks   |
 
@@ -65,8 +65,8 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 
 - [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
 - [x] **Phase 02 – DSA, SQL and Data Analysis** — *✅ Completed*
-- [x] **Phase 03 – Mathematics for Machine Learning** — *In progress · 6 hrs/day · GitHub pushes every Wed and Sat*
-- [ ] Phase 04 – Classical Machine Learning  
+- [x] **Phase 03 – Mathematics for Machine Learning** — *✅ Completed*
+- [x] **Phase 04 – Classical Machine Learning** — *In progress · 5 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 05 – Deep Learning Foundations
 - [ ] Phase 06 – Cloud, Testing, and ML System Design
 - [ ] Phase 07 – MLOps and Production Machine Learning
@@ -228,7 +228,7 @@ ml-ai-learning-journey/
 
 | Day           | Task                                                                                     |
 |---------------|------------------------------------------------------------------------------------------|
-| 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (6 hrs/day)                  |
+| 📘 Monday–Sunday | 📖 Daily learning, 💻 implementation, and 📝 documentation (5 hrs/day)                  |
 | 🔄 Wednesday     | 🛠️ Push in-progress work to GitHub (raw code, notes, experiments)                      |
 | 📂 Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)                  |
 | 📢 Tuesday       | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
