@@ -51,7 +51,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 | 01     | Phase 01 - Python and Git Foundations                 | Python basics, Git, GitHub                                   | 05 weeks   |
 | 02     | Phase 02 - DSA, SQL and Data Analysis                 | Algorithms, PostgreSQL, NumPy, Pandas and Data visualization | 12 weeks   |
 | 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and statistics         | 04 weeks   |
-| 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, regression, classification              | 06 weeks   |
+| 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, Unsupervised learning                   | 06 weeks   |
 | 05     | Phase 05 - Deep Learning Foundations                  | Neural nets, CNNs, RNNs, optimization                        | 10 weeks   |
 | 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 06 weeks   |
 | 07     | Phase 07 - MLOps and Production Machine Learning      | Deployment, pipelines, monitoring                            | 10 weeks   |
@@ -108,8 +108,8 @@ ml-ai-learning-journey/
 │   └── README.md                                                → Phase overview
 
 ├── Phase 04 - Classical Machine Learning/
-│   ├── course01-supervised-machine-learning-coursera/           → Fundamentals of supervised ML with Andrew Ng (regression, classification)
-│   ├── course02-machine-learning-with-python-ibm/               → Applied ML using Python, scikit-learn, and real-world projects
+│   ├── course01-supervised-machine-learning-andrew-ng/          → Fundamentals of supervised ML (regression, classification)
+│   ├── course02-machine-learning-sheryians-ai-school/           → Applied ML using Python, scikit-learn, and real-world projects
 │   └── README.md                                                → Phase overview
 
 ├── Phase 05 - Deep Learning Foundations/
@@ -185,8 +185,8 @@ ml-ai-learning-journey/
 - [Calculus for Machine Learning – Jon Krohn (Youtube)](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 
 ### 🟦 Phase 04 – Classical Machine Learning  
-- [Supervised Machine Learning: Regression and Classification – (Coursera)](https://www.coursera.org/learn/supervised-machine-learning)  
-- [Machine Learning with Python – IBM (Coursera)](https://www.coursera.org/learn/machine-learning-with-python)
+- [Supervised Machine Learning: Regression and Classification – Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)  
+- [Complete Machine Learning Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5)
 
 ### 🟪 Phase 05 – Deep Learning Foundations
 - [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)  
