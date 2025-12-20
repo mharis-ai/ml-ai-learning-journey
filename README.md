@@ -69,7 +69,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 - [x] **Phase 04 – Classical Machine Learning** — *In progress · 5 hrs/day · GitHub pushes every Wed and Sat*
 - [ ] Phase 05 – Deep Learning Foundations
 - [ ] Phase 06 – Cloud, Testing, and ML System Design
-- [ ] Phase 07 – MLOps and Production Machine Learning
+- [ ] Phase 07 – End-to-End Machine Learning Operations
 - [ ] Phase 08 – Fullstack AI Development and Tools 
 - [ ] Phase 09 – Generative AI and LLM Foundations
 - [ ] Phase 10 – Advanced LLM Engineering, Agents, and RAG
@@ -132,10 +132,8 @@ ml-ai-learning-journey/
 │   ├── course05-machine-learning-system-design-cs329s/          → Explore design patterns and best practices for scalable ML systems
 │   └── README.md                                                → Phase overview
 
-├── Phase 07 - MLOps and Production Machine Learning/
-│   ├── course01-machine-learning-engineering-for-production     → ML deployment, production systems, and monitoring
-│   ├── course02-mlops-zoomcamp-datatalks/                       → End-to-end MLOps: orchestration, deployment, and monitoring
-│   ├── course03-full-stack-deep-learning-fsdl/                  → Full-stack ML system design and production workflows
+├── Phase 07 - End-to-End Machine Learning Operations/
+│   ├── course01-the-ultimate-mlops-course                       → Model development, deployment, production monitoring, and maintenance
 │   └── README.md                                                → Phase overview
 
 ├── Phase 08 - Fullstack AI Development and Tools/
@@ -199,10 +197,8 @@ ml-ai-learning-journey/
 - [AWS Cloud Practitioner Essentials – (Coursera)](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)
 - [Machine Learning System Design – cs329s (Stanford)](https://stanford-cs329s.github.io)
 
-### 🟫 Phase 07 – MLOps and Production Machine Learning  
-- [Machine Learning Engineering for Production – Andrew Ng (Youtube)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)  
-- [MLOps Zoomcamp – DataTalks.Club (GitHub)](https://github.com/DataTalksClub/mlops-zoomcamp)  
-- [Full Stack Deep Learning – (FSDL)](https://fullstackdeeplearning.com)
+### 🟫 Phase 07 – End-to-End Machine Learning Operations 
+- [The Ultimate MLOPS Course – Vikash Das (Youtube)](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)  
 
 ### 🟨 Phase 08 – Fullstack AI Development and Tools
 - [FastAPI for Machine Learning – CampusX (YouTube)](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
