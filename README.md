@@ -12,8 +12,6 @@ The roadmap spans **75 weeks** and is organized into **10 structured phases**, c
 
 Every concept here is studied, practiced, and implemented by me — with full effort, deep reasoning, and personal accountability at every step.
 
-> ✳️ I use ChatGPT to support my learning — especially for concept clarification, Markdown structuring, or when I’m genuinely stuck — but every code, solution, and explanation reflects my own understanding and logical effort.
-
 ---
 
 ## 🔥 Weekly Commitment
@@ -30,7 +28,7 @@ This is a consistent, long-term investment — not just to finish a roadmap, but
 ## 🧠 Principles I Follow
 
 - ✅ One top-rated, industry-approved course per phase — no hopping or overload  
-- ✅ All `.py` and `.ipynb` files are created through my own problem-solving — no shortcuts, no code generators  
+- ✅ All `.py` and `.ipynb` files are created through my own problem-solving — no shortcuts, no code generators
 - ✅ All `.md` files are guided by ChatGPT but based entirely on my own progress and reflections  
 - ✅ All handwritten notes are fully derived and written by me  
 - ✅ I reason through logic, debug actively, and explain concepts in my own words  
@@ -109,7 +107,7 @@ ml-ai-learning-journey/
 
 ├── Phase 04 - Classical Machine Learning/
 │   ├── course01-supervised-machine-learning-andrew-ng/          → Fundamentals of supervised ML (regression, classification)
-│   ├── course02-machine-learning-sheryians-ai-school/           → Applied ML using Python, scikit-learn, and real-world projects
+│   ├── course02-practical-machine-learning-sheryians-ai-school  → Applied ML using Python and scikit-learn
 │   └── README.md                                                → Phase overview
 
 ├── Phase 05 - Deep Learning Foundations/
@@ -120,8 +118,7 @@ ml-ai-learning-journey/
 │   │   ├── subcourse04-convolutional-neural-networks/           → Build CNNs for image tasks
 │   │   └── subcourse05-sequence-models/                         → RNNs, LSTMs for time and text data
 │   ├── course02-deep-learning-fastai/
-│   │   ├── part01-deep-learning-for-coders/                     → Build deep learning models with Fast.ai and PyTorch (Part 1)
-│   │   └── part02-deep-learning-from-the-foundations/           → Implement DL libraries from scratch (Part 2)
+│   │   ├── part01-deep-learning-for-coders/                     → Build deep learning models with Fast.ai and PyTorch
 │   └── README.md                                                → Phase overview
 
 ├── Phase 06 - Cloud, Testing, and ML System Design/
