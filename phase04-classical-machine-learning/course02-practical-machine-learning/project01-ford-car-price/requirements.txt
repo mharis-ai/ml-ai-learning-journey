@@ -1,0 +1,8 @@
+python==3.10.11
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+fpdf==1.7.2
+joblib==1.5.2
