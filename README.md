@@ -1,46 +1,42 @@
 # 🛠️ Machine Learning and Artificial Intelligence — Learning Journey
-### 🚀 75 Weeks · 10 Phases · From Zero to Production-Ready
+### 🚀 26 Weeks · 4 Phases · The Roadmap to Mastering the Base
 
 ---
 
 ## 📌 Overview
 
-This repository documents my disciplined, full-time journey to become a **production-ready Machine Learning Engineer** — someone who not only understands AI systems in depth but can build them end to end with clarity, logic, and precision.
+This repository is a structured, comprehensive roadmap designed for **anyone who wants to enter the world of Artificial Intelligence** the right way—by mastering the fundamentals first. 
 
-The roadmap spans **75 weeks** and is organized into **10 structured phases**, covering:  
-**Python and Git Foundations**, **DSA, SQL and Data Analysis**, **Mathematics for Machine Learning**, **Classical Machine Learning**, **Deep Learning Foundations**, **Cloud, Testing and ML System Design**, **MLOps and Production Machine Learning**, **Fullstack AI Development and Tools**, **Generative AI and LLM Foundations**, and **Advanced LLM Engineering, Agents, and RAG**.
+Before diving into modern Agentic Workflows, LLMs, or complex Neural Networks, one must possess a rock-solid understanding of the core mathematics, algorithms, and data logic that power these systems. This repository serves as that foundational bedrock.
 
-Every concept here is studied, practiced, and implemented by me — with full effort, deep reasoning, and personal accountability at every step.
-
----
-
-## 🔥 Weekly Commitment
-
-- 🗓️ **Daily (Monday–Sunday)**  
-- ⏱️ **5 hours/day**  
-- 🗃️ **GitHub commits every Wednesday and Saturday**
-- 📝 **Weekly LinkedIn Learning Summary – Posted Every Tuesday**
-
-This is a consistent, long-term investment — not just to finish a roadmap, but to become a capable ML/AI engineer through depth and repetition.
+**The Goal:** To build a deep, mathematical, and algorithmic "base" that is unbreakable.  
+**The Future:** Once this foundation is solidified, the journey continues. This roadmap is the strict prerequisite before moving on to **building real-world, modern AI products** and end-to-end agentic systems in future projects.
 
 ---
 
-## 🧠 Principles I Follow
+## 🔥 The Commitment
 
-- ✅ One top-rated, industry-approved course per phase — no hopping or overload  
-- ✅ All `.py` and `.ipynb` files are created through my own problem-solving — no shortcuts, no code generators
-- ✅ All `.md` files are guided by ChatGPT but based entirely on my own progress and reflections  
-- ✅ All handwritten notes are fully derived and written by me  
-- ✅ I reason through logic, debug actively, and explain concepts in my own words  
-- ✅ ChatGPT is used strictly as a tutor — never as a shortcut  
-- ✅ I revisit topics until they fully click — never moving on just to maintain pace  
-- ✅ I treat each module as practical training, not just curriculum  
-- ✅ I commit to GitHub on a fixed schedule — with clear structure, clean commits, and updated documentation  
-- ✅ My portfolio reflects genuine, hands-on work — never automation  
+To truly master these fundamentals, this roadmap demands discipline:
+
+- 🗓️ **Daily Consistency (Monday–Sunday)**  
+- ⏱️ **5 hours/day** (Deep Work)
+- 🗃️ **Structured GitHub commits** (Wednesday & Saturday)
+- 📝 **Public Accountability** (Weekly Summaries)
+
+This is not a race to finish; it is a commitment to **comprehension**.
 
 ---
 
-## 🧭 10-Phase Roadmap
+## 🧠 Core Principles
+
+- ✅ **Foundations First:** We do not skip the math. We do not skip the logic.
+- ✅ **Deep Understanding:** Concepts are revisited until they "click"—we do not move on just to maintain pace.
+- ✅ **Documentation:** Every concept is documented in clear, logical Markdown files to ensure long-term retention.
+- ✅ **Practical Application:** Every theory is implemented in code (`.py` or `.ipynb`) to bridge the gap between abstract math and executable logic.
+
+---
+
+## 🧭 04 - Phase Roadmap
 
 Each phase targets a core skill area and is anchored by a top-tier course for focused and practical learning.
 
@@ -49,13 +45,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 | 01     | Phase 01 - Python and Git Foundations                 | Python basics, Git, GitHub                                   | 05 weeks   |
 | 02     | Phase 02 - DSA, SQL and Data Analysis                 | Algorithms, PostgreSQL, NumPy, Pandas and Data visualization | 12 weeks   |
 | 03     | Phase 03 - Mathematics for Machine Learning           | Linear algebra, calculus, probability and statistics         | 04 weeks   |
-| 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, Unsupervised learning                   | 06 weeks   |
-| 05     | Phase 05 - Deep Learning Foundations                  | Neural nets, CNNs, RNNs, optimization                        | 10 weeks   |
-| 06     | Phase 06 - Cloud, Testing and ML System Design        | Docker, Kubernetes, testing, CI/CD, AWS                      | 06 weeks   |
-| 07     | Phase 07 - MLOps and Production Machine Learning      | Deployment, pipelines, monitoring                            | 10 weeks   |
-| 08     | Phase 08 - Fullstack AI Development and Tools         | APIs, UIs, LangChain                                         | 06 weeks   |
-| 09     | Phase 09 - Generative AI and LLM Foundations          | Prompt engineering, transformers, RAG                        | 08 weeks   |
-| 10     | Phase 10 - Advanced LLM Engineering, Agents, and RAG  | Agents, advanced LangChain, knowledge graphs                 | 08 weeks   |
+| 04     | Phase 04 - Classical Machine Learning                 | Supervised learning, Unsupervised learning                   | 05 weeks   |
 
 ---
 
@@ -64,13 +54,7 @@ Each phase targets a core skill area and is anchored by a top-tier course for fo
 - [x] **Phase 01 – Python and Git Foundations** — *✅ Completed*
 - [x] **Phase 02 – DSA, SQL and Data Analysis** — *✅ Completed*
 - [x] **Phase 03 – Mathematics for Machine Learning** — *✅ Completed*
-- [x] **Phase 04 – Classical Machine Learning** — *In progress · 5 hrs/day · GitHub pushes every Wed and Sat*
-- [ ] Phase 05 – Deep Learning Foundations
-- [ ] Phase 06 – Cloud, Testing, and ML System Design
-- [ ] Phase 07 – End-to-End Machine Learning Operations
-- [ ] Phase 08 – Fullstack AI Development and Tools 
-- [ ] Phase 09 – Generative AI and LLM Foundations
-- [ ] Phase 10 – Advanced LLM Engineering, Agents, and RAG
+- [x] **Phase 04 – Classical Machine Learning** — *✅ Completed*
 
 ---
 
@@ -109,50 +93,6 @@ ml-ai-learning-journey/
 │   ├── course01-supervised-machine-learning-andrew-ng/          → Fundamentals of supervised ML (regression, classification)
 │   ├── course02-practical-machine-learning-sheryians-ai-school  → Applied ML using Python and scikit-learn
 │   └── README.md                                                → Phase overview
-
-├── Phase 05 - Deep Learning Foundations/
-│   ├── course01-deep-learning-specialization/
-│   │   ├── subcourse01-neural-networks-deep-learning/           → Basics of deep neural networks
-│   │   ├── subcourse02-improving-deep-neural-networks/          → Optimization and tuning techniques
-│   │   ├── subcourse03-structuring-ml-projects/                 → Best practices for ML project setup
-│   │   ├── subcourse04-convolutional-neural-networks/           → Build CNNs for image tasks
-│   │   └── subcourse05-sequence-models/                         → RNNs, LSTMs for time and text data
-│   ├── course02-deep-learning-fastai/
-│   │   ├── part01-deep-learning-for-coders/                     → Build deep learning models with Fast.ai and PyTorch
-│   └── README.md                                                → Phase overview
-
-├── Phase 06 - Cloud, Testing, and ML System Design/
-│   ├── course01-docker-kubernetes-amigoscode/                   → Learn containerization with Docker and orchestration using Kubernetes
-│   ├── course02-pytest-tutorial-fcc/                            → Master automated testing in Python using Pytest framework
-│   ├── course03-cicd-github-actions/                            → Build and automate CI/CD pipelines with GitHub Actions
-│   ├── course04-aws-cloud-practitioner-essentials/              → Understand core AWS cloud services, architecture, and security
-│   ├── course05-machine-learning-system-design-cs329s/          → Explore design patterns and best practices for scalable ML systems
-│   └── README.md                                                → Phase overview
-
-├── Phase 07 - End-to-End Machine Learning Operations/
-│   ├── course01-the-ultimate-mlops-course                       → Model development, deployment, production monitoring, and maintenance
-│   └── README.md                                                → Phase overview
-
-├── Phase 08 - Fullstack AI Development and Tools/
-│   ├── course01-fastapi-for-machine-learning-campusx/           → FastAPI backend development for ML applications
-│   ├── course02-gradio-fcc/                                     → Building interactive AI apps with Gradio
-│   ├── course03-streamlit/                                      → Creating ML app UIs using Streamlit
-│   ├── course04-langchain-chat-with-your-data/                  → LangChain for conversational AI with custom data
-│   └── README.md                                                → Phase overview
-
-├── Phase 09 - Generative AI and LLM Foundations/
-│   ├── course01-chatgpt-prompt-engineering-openai/              → Prompt engineering with ChatGPT
-│   ├── course02-huggingface-llm-course/                         → Transformers, tokenizers, and fine-tuning
-│   ├── course03-cohere-llm-university/                          → Vector databases, RAG, and LLM deployment
-│   ├── course04-building-systems-chatgpt-api/                   → Developing systems using ChatGPT API
-│   ├── course05-openai-cookbook/                                → Practical OpenAI API examples and usage patterns
-│   └── README.md                                                → Phase overview
-
-├── Phase 10 - Advanced LLM Engineering, Agents, and RAG/
-│   ├── course01-full-stack-llm-bootcamp-fsdl/                   → Advanced agentic LLM systems – Full Stack LLM Bootcamp
-│   ├── course02-langchain-for-llm-app-development/              → LangChain for building LLM applications
-│   ├── course03-llamaindex-docs/                                → Knowledge graphs and indexing with LlamaIndex
-│   └── README.md                                                → Advanced RAG workflows, agents, and deployment notes
 ```
 
 ---
@@ -183,37 +123,6 @@ ml-ai-learning-journey/
 - [Supervised Machine Learning: Regression and Classification – Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)  
 - [Complete Machine Learning Course for Beginners – Sheryians AI School (Youtube)](https://www.youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5)
 
-### 🟪 Phase 05 – Deep Learning Foundations
-- [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)  
-- [Practical Deep Learning – (Fast.ai)](https://course.fast.ai)
-
-### 🟫 Phase 06 – Cloud, Testing and ML System Design  
-- [Docker and Kubernetes Tutorial – Amigoscode (Youtube)](https://www.youtube.com/watch?v=bhBSlnQcq2k)  
-- [Pytest Tutorial – FCC (YouTube)](https://www.youtube.com/watch?v=cHYq1MRoyI0)  
-- [CI/CD with GitHub Actions – (YouTube)](https://www.youtube.com/watch?v=R8_veQiYBjI)  
-- [AWS Cloud Practitioner Essentials – (Coursera)](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)
-- [Machine Learning System Design – cs329s (Stanford)](https://stanford-cs329s.github.io)
-
-### 🟫 Phase 07 – End-to-End Machine Learning Operations 
-- [The Ultimate MLOPS Course – Vikash Das (Youtube)](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)  
-
-### 🟨 Phase 08 – Fullstack AI Development and Tools
-- [FastAPI for Machine Learning – CampusX (YouTube)](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
-- [Gradio Course – FCC (YouTube)](https://www.youtube.com/watch?v=RiCQzBluTxU&t=8s)
-- [Streamlit Documentation](https://docs.streamlit.io) 
-- [LangChain: Chat with Your Data – (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data) 
-
-### 🟥 Phase 09 – Generative AI and LLM Foundations  
-- [ChatGPT Prompt Engineering for Developers – OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
-- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course)  
-- [Cohere LLM University – (LLMU)](https://cohere.com/llmu)
-- [Building Systems with the ChatGPT API – (DeepLearning.AI)](https://learn.deeplearning.ai/courses/chatgpt-building-system)  
-- [OpenAI Cookbook – (Github)](https://github.com/openai/openai-cookbook)
-
-### 🟫 Phase 10 – Advanced LLM Engineering, Agents, and RAG
-- [Full Stack LLM Bootcamp – (FSDL)](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023)
-- [LangChain for LLM App Development – (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development)
-- [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable)
 
 ---
 
@@ -226,28 +135,22 @@ ml-ai-learning-journey/
 | 📂 Saturday      | ✅ Push finalized work to GitHub (clean code, polished documentation)                  |
 | 📢 Tuesday       | ✍️ Share weekly learning summary on LinkedIn (public accountability and recap)        |
 
-*Note: The focus is on consistent progress — most weeks target 6-hour study days, though some may include shorter sessions or rest days.*
+*Note: The focus is on consistent progress — most weeks target 5-hour study days, though some may include shorter sessions or rest days.*
 
 ---
 
 ## ⚙️ Tools, Technologies & Skills
 
-- 🐍 **Python** – Procedural logic, loops, functions, file handling, object-oriented programming
-- 🔧 **Git and GitHub** – Version control, branching, collaboration  
-- 💻 **CLI Workflows** – Command-line tools, Git commands, navigation
-- 🧩 **Data Structures and Algorithms** – Arrays, linked lists, stacks, queues, trees, graphs, recursion, sorting, heaps, strings
-- 🗄️ **SQL with PostgreSQL** – Filtering, sorting, joins, aggregation, subqueries  
-- 📝 **Jupyter Notebooks** – Used from Phase 2 onward for data analysis, math, ML, and DL  
-- 📐 **Math Foundations** – Linear algebra, calculus, probability, statistics  
-- 🧠 **Classical Machine Learning** – scikit-learn, pandas, NumPy  
-- 🧬 **Deep Learning** – TensorFlow, PyTorch, CNNs, RNNs, optimization techniques  
-- ☁️ **Cloud and DevOps** – Docker, Kubernetes, AWS fundamentals  
-- 🧪 **Testing amd CI/CD** – Pytest, GitHub Actions, automated pipelines  
-- 🛠️ **MLOps and Pipelines** – ML lifecycle, MLflow, orchestration, deployment, monitoring  
-- 🧱 **Fullstack AI Development** – FastAPI, Gradio, Streamlit, deployment  
-- 🗣️ **NLP and LLMs** – LangChain, RAG, OpenAI API, embeddings, vector databases  
-- 🤖 **Advanced LLM Engineering** – Agents, advanced RAG, LlamaIndex, system design  
-- 📊 **Documentation and Repo Design** – Markdown, GitHub structure, versioned notes  
+- 🐍 **Python 3.x** – Procedural logic, OOP, functional programming, file handling, and scripting.
+- 🔧 **Git and GitHub** – Version control, branching strategies, and open-source collaboration.
+- 💻 **Command Line (CLI)** – Shell navigation, environment management, and essential scripts.
+- 🧩 **Data Structures & Algorithms** – Arrays, hashmaps, trees, graphs, sorting, searching, and recursion.
+- 🗄️ **SQL (PostgreSQL)** – Relational database design, complex queries, joins, and aggregations.
+- 🐼 **Data Analysis Stack** – **Pandas** for manipulation, **NumPy** for vectorization, **Matplotlib/Seaborn** for visualization.
+- 📐 **Mathematics for ML** – Linear Algebra (vectors/matrices), Multivariate Calculus, Probability & Statistics.
+- 🧠 **Classical Machine Learning** – **Scikit-learn** for regression, classification, clustering, and dimensionality reduction.
+- 📝 **Development Tools** – Jupyter Notebooks for experimentation, VS Code for production-style coding.
+- 📊 **Documentation** – Markdown, technical writing, and structured repository maintenance.  
 
 ---
 
@@ -260,9 +163,10 @@ See the [LICENSE](./LICENSE) file for full usage rights.
 
 ## 📫 Connect With Me
 
-- 🔗 [GitHub](https://github.com/mharis-ai)  
 - 💼 [LinkedIn](https://linkedin.com/in/mharis-ai)  
 
 ---
 
-> 💬 *This journey is not about shortcuts — it’s about depth, discipline, and long-term technical skill. I code everything myself, think independently, and push forward every single day with curiosity and intent. The goal is to become a highly capable ML engineer — with the depth to understand algorithms, the discipline to build from scratch, and the skill to develop full AI systems end to end.*
+> 💬 *This journey is not about shortcuts — it’s about depth, discipline, and long-term technical skill. This repository is the result of my sheer hard work and absolute focus. I think independently and push forward every single day with curiosity and intent. The goal is to become a Modern AI Applied Engineer and ML Specialist — with the depth to understand algorithms, the discipline to understand everything from scratch, and the skill to develop full AI systems to perfection*
+
+---
